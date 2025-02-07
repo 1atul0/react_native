@@ -1,3 +1,6 @@
 [submodule "Project01_react_native"]
 	path = Project01_react_native
 	url = https://github.com/1atul0/Project01_react_native
+[submodule "Project02_react_native"]
+	path = Project02_react_native
+	url = https://github.com/1atul0/Project02_react_native

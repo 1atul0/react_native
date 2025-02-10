@@ -4,3 +4,6 @@
 [submodule "Project02_react_native"]
 	path = Project02_react_native
 	url = https://github.com/1atul0/Project02_react_native
+[submodule "password_generator_react_native"]
+	path = password_generator_react_native
+	url = https://github.com/1atul0/password_generator_react_native

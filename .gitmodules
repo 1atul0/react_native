@@ -7,3 +7,9 @@
 [submodule "password_generator_react_native"]
 	path = password_generator_react_native
 	url = https://github.com/1atul0/password_generator_react_native
+[submodule "dice_roll05"]
+	path = dice_roll05
+	url = https://github.com/1atul0/dice_roll05
+[submodule "Background_Changer"]
+	path = Background_Changer
+	url = https://github.com/1atul0/Background_Changer
